@@ -14,7 +14,7 @@
     </parent>
     <groupId>poojaprashar.springframework</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>yes</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>spring-pet-clinic</name>
     <description>Spring Pet Clinic Project</description>
 
@@ -51,7 +51,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/PoojaPrashar/Spring-Pet-Clinic.git</developerConnection>
-        <tag>spring-pet-clinic-yes</tag>
+        <tag>HEAD</tag>
     </scm>
 
 
